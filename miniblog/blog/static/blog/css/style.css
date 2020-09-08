@@ -1,0 +1,13 @@
+body{
+    background-color:black;
+    color:aquamarine;
+}
+.jumbo-color{
+    background:rgb(83,81,81);
+}
+.form-control{
+    background-color:rgb(163,161,162)
+}
+.form-control:focus{
+    background-color:whitesmoke;
+}
